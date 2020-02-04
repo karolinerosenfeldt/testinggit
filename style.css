@@ -7,3 +7,7 @@
     position: absolute;
     transition: all 5s;
 }
+
+body{
+    background: black;
+}

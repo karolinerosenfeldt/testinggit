@@ -4,4 +4,6 @@
     border-radius: 50%;
     background: hsl(120, 70%, 70%);
     margin: 10px;
+    position: absolute;
+    transition: all 8s;
 }
